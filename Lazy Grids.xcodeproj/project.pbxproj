@@ -19,6 +19,7 @@
 		9AA426E926DFFD74006A265E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		9AA426EB26DFFD75006A265E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9AA426EE26DFFD75006A265E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		9ACFED3426E000000008B16F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +54,7 @@
 			children = (
 				9AA426E726DFFD74006A265E /* Lazy_GridsApp.swift */,
 				9AA426E926DFFD74006A265E /* ContentView.swift */,
+				9ACFED3426E000000008B16F /* README.md */,
 				9AA426EB26DFFD75006A265E /* Assets.xcassets */,
 				9AA426ED26DFFD75006A265E /* Preview Content */,
 			);
