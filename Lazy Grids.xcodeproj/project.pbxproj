@@ -36,6 +36,7 @@
 		9AA426DB26DFFD74006A265E = {
 			isa = PBXGroup;
 			children = (
+				9ACFED3426E000000008B16F /* README.md */,
 				9AA426E626DFFD74006A265E /* Lazy Grids */,
 				9AA426E526DFFD74006A265E /* Products */,
 			);
@@ -54,7 +55,6 @@
 			children = (
 				9AA426E726DFFD74006A265E /* Lazy_GridsApp.swift */,
 				9AA426E926DFFD74006A265E /* ContentView.swift */,
-				9ACFED3426E000000008B16F /* README.md */,
 				9AA426EB26DFFD75006A265E /* Assets.xcassets */,
 				9AA426ED26DFFD75006A265E /* Preview Content */,
 			);
