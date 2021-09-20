@@ -14,6 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9A5C375226F8F30400E3FCD2 /* CoverImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CoverImage.png; sourceTree = "<group>"; };
 		9AA426E426DFFD74006A265E /* Lazy Grids.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Lazy Grids.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9AA426E726DFFD74006A265E /* Lazy_GridsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lazy_GridsApp.swift; sourceTree = "<group>"; };
 		9AA426E926DFFD74006A265E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -36,6 +37,7 @@
 		9AA426DB26DFFD74006A265E = {
 			isa = PBXGroup;
 			children = (
+				9A5C375226F8F30400E3FCD2 /* CoverImage.png */,
 				9ACFED3426E000000008B16F /* README.md */,
 				9AA426E626DFFD74006A265E /* Lazy Grids */,
 				9AA426E526DFFD74006A265E /* Products */,
